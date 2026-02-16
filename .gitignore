@@ -6,6 +6,5 @@
 *.mp4
 
 # yolov5 runs
-runs/
 output_video.mp4
 
